@@ -1,4 +1,10 @@
 
+// Commands
+// to compile
+// javac --release 21 --enable-preview HelloWorld.java
+
+// to run
+// javac --release 21 --enable-preview HelloWorld.java
 
 // instance variable
 /*int x = 5;
