@@ -1,4 +1,4 @@
-package org.training.java21;
+package org.training.java21.record_patterns;
 
 public record Person(String name, Integer age){} // component list, name() and age() accessors
 

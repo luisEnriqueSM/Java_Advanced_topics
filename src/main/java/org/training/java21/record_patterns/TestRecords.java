@@ -1,4 +1,4 @@
-package org.training.java21;
+package org.training.java21.record_patterns;
 
 public class TestRecords {
 
